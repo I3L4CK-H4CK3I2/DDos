@@ -1,5 +1,5 @@
 # DDos
-## A basic [DDos](https://I3L4CK-H4CK3l2.github.io/DDos/) using Python v3
+## A basic [DDos](https://I3L4CK-H4CK3l2.github.io/DDos/) Attack using Python v3
 
 - **Python**
     - Install Python from [here](https://www.python.org/).
